@@ -434,6 +434,111 @@ const saadLamaizi = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
+## 🎯 Current Focus & Learning
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Web Development] -->|Mastering| B[Next.js 14]
+    A -->|Learning| C[Web3]
+    D[Design] -->|Creating| E[UI/UX Systems]
+    F[Backend] -->|Building| G[Scalable APIs]
+    style A fill:#0EA5E9
+    style D fill:#F59E0B
+    style F fill:#8B5CF6
+```
+
+### 📊 Skills Progress
+
+<table>
+<tr><td>
+
+**Frontend Development**
+  
+![React](https://img.shields.io/badge/React-95%25-61DAFB?style=flat-square&logo=react&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-90%25-007ACC?style=flat-square&logo=typescript&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-92%25-000000?style=flat-square&logo=next.js&logoColor=white)  
+
+</td><td>
+
+**Backend & APIs**
+  
+![Python](https://img.shields.io/badge/Python-88%25-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=flat-square&logo=node.js&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-82%25-009688?style=flat-square&logo=fastapi&logoColor=white)  
+
+</td><td>
+
+**Design & Creative**
+  
+![Figma](https://img.shields.io/badge/Figma-93%25-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-90%25-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)  
+![After Effects](https://img.shields.io/badge/After_Effects-87%25-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)  
+
+</td></tr>
+</table>
+
+### 🎓 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Web3.js-Learning-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_TypeScript-Learning-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-Exploring-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-Practicing-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" />
+      <br/><strong>15+</strong>
+      <br/><sub>Projects Completed</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/216122003-15d7c863-4b65-4208-b596-db7c8d4bac0e.png" width="80" />
+      <br/><strong>10+</strong>
+      <br/><sub>Happy Clients</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
+      <br/><strong>3+</strong>
+      <br/><sub>Years Experience</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" />
+      <br/><strong>50K+</strong>
+      <br/><sub>Lines of Code</sub>
+    </td>
+  </tr>
+</table>
+
+### 🎖️ Key Achievements
+
+- 🏅 Built **5+ production-ready web applications** with modern tech stack
+- 🌍 Developed **multilingual Discord bot** serving 1000+ users
+- 🎨 Created **20+ custom UI/UX designs** for clients worldwide
+- 🚀 Deployed **15+ websites** with 99.9% uptime
+- 💼 Successfully integrated **Web3 & blockchain** solutions
+- 🎬 Produced **100+ hours** of video content & motion graphics
+- ⭐ Maintained **4.9/5** average client satisfaction rating
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 ## 📈 Contribution Activity
 
 <div align="center">
