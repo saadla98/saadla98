@@ -438,55 +438,121 @@ const saadLamaizi = {
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Web Development] -->|Mastering| B[Next.js 14]
-    A -->|Learning| C[Web3]
-    D[Design] -->|Creating| E[UI/UX Systems]
-    F[Backend] -->|Building| G[Scalable APIs]
-    style A fill:#0EA5E9
-    style D fill:#F59E0B
-    style F fill:#8B5CF6
-```
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" />
+      <br/><br/>
+      <strong>🚀 Web Development</strong>
+      <br/><sub>Mastering Next.js 14 & React 18</sub>
+      <br/><sub>Building scalable applications</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" />
+      <br/><br/>
+      <strong>⛓️ Web3 & Blockchain</strong>
+      <br/><sub>Exploring decentralized apps</sub>
+      <br/><sub>Smart contract development</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" />
+      <br/><br/>
+      <strong>🎨 UI/UX Systems</strong>
+      <br/><sub>Creating design systems</sub>
+      <br/><sub>Modern interface patterns</sub>
+    </td>
+  </tr>
+</table>
 
-### 📊 Skills Progress
+<br/>
+
+### 📊 Skills Mastery Level
 
 <table>
 <tr><td>
 
-**Frontend Development**
+**💻 Frontend Development**
   
-![React](https://img.shields.io/badge/React-95%25-61DAFB?style=flat-square&logo=react&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-90%25-007ACC?style=flat-square&logo=typescript&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-92%25-000000?style=flat-square&logo=next.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A)
+```
+████████████████████░ 95%
+```
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a)
+```
+██████████████████░░ 90%
+```
+![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0a0a0a)
+```
+████████████████████░ 92%
+```
 
 </td><td>
 
-**Backend & APIs**
+**⚙️ Backend & APIs**
   
-![Python](https://img.shields.io/badge/Python-88%25-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=flat-square&logo=node.js&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-82%25-009688?style=flat-square&logo=fastapi&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
+```
+█████████████████░░░ 88%
+```
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a)
+```
+█████████████████░░░ 85%
+```
+![FastAPI](https://img.shields.io/badge/FastAPI-Proficient-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a)
+```
+████████████████░░░░ 82%
+```
 
 </td><td>
 
-**Design & Creative**
+**🎨 Design & Creative**
   
-![Figma](https://img.shields.io/badge/Figma-93%25-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Photoshop-90%25-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)  
-![After Effects](https://img.shields.io/badge/After_Effects-87%25-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-Expert-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a)
+```
+████████████████████░ 93%
+```
+![Photoshop](https://img.shields.io/badge/Photoshop-Expert-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=1a1a1a)
+```
+██████████████████░░ 90%
+```
+![After Effects](https://img.shields.io/badge/After_Effects-Advanced-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=1a1a1a)
+```
+█████████████████░░░ 87%
+```
 
 </td></tr>
 </table>
 
-### 🎓 Currently Learning
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Web3.js-Learning-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced_TypeScript-Learning-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-Exploring-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-Practicing-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-</p>
+### 🎓 Currently Learning & Exploring
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Web3.js-Learning-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+      <br/>
+      <img src="https://progress-bar.dev/60/?title=Progress&width=200&color=F16822" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Advanced_TypeScript-Learning-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <br/>
+      <img src="https://progress-bar.dev/75/?title=Progress&width=200&color=007ACC" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Blockchain-Exploring-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
+      <br/>
+      <img src="https://progress-bar.dev/55/?title=Progress&width=200&color=121D33" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Three.js-Practicing-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+      <br/>
+      <img src="https://progress-bar.dev/65/?title=Progress&width=200&color=000000" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
