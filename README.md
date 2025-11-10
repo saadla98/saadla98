@@ -1,16 +1,29 @@
 <div align="center">
 
-# 👋 Hi, I'm Saad Lamaizi
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Saad%20Lamaizi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Creative%20Designer&descAlignY=55&descSize=25" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%A8;Video+Editor+%7C+Motion+Graphics+%F0%9F%8E%AC;UI%2FUX+Enthusiast+%E2%9C%A8;Building+Digital+Experiences" alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%A8;Video+Editor+%26+Motion+Graphics+%F0%9F%8E%AC;UI%2FUX+Enthusiast+%E2%9C%A8;Building+Digital+Experiences+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadla98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/saadla98?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 ---
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<div align="left">
 
 ```typescript
 const saadLamaizi = {
@@ -34,68 +47,111 @@ const saadLamaizi = {
 };
 ```
 
+### 🎯 Quick Highlights
+
+- 🔭 Currently working on **Modern Web Applications**
+- 🌱 Learning **Web3 Technologies** and **Advanced TypeScript**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Next.js, TypeScript, Design, Video Editing**
+- 📫 Reach me at **lamaiziisaad@gmail.com**
+- ⚡ Fun fact: **I speak 3 languages and play 5+ instruments!**
+
+</div>
+
+<br clear="both"/>
+
 ---
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### 💻 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
 ### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### 🎨 Design & Media Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![FL Studio](https://img.shields.io/badge/FL_Studio-FF7300?style=for-the-badge&logo=fl-studio&logoColor=white)
+### 🎨 Design & Creative Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/FL%20Studio-FF7300?style=for-the-badge&logo=fl-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
 ### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadla98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=C9D1D9&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saadla98&theme=tokyonight&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=FF6B6B&currStreakLabel=0EA5E9" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=saadla98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=C9D1D9&count_private=true&include_all_commits=true" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadla98&theme=tokyonight&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=FF6B6B&currStreakLabel=0EA5E9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadla98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadla98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9&langs_count=10&card_width=445" />
 
-</div>
-
-<div align="center">
+<details>
+  <summary>📈 More GitHub Stats</summary>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadla98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FF6B6B&area=true&hide_title=false" width="100%" />
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saadla98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FF6B6B)
+  <img src="https://github-profile-trophy.vercel.app/?username=saadla98&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" />
+</details>
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 🔥 Featured Projects
 
@@ -103,71 +159,162 @@ const saadLamaizi = {
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🥤 Coca-Cola Website</h3>
-      <div align="center">  
+      <br/>
+      <a href="https://github.com/saadla98/coca-cola-website" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadla98&repo=coca-cola-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9&description_lines_count=3" width="100%" />
+      </a>
+      <br/>
+      <p align="center">
         <a href="https://github.com/saadla98/coca-cola-website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadla98&repo=coca-cola-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=C9D1D9" alt="Coca-Cola Website" />
+          <img src="https://img.shields.io/badge/Code-View%20Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <br>
-        <p>
-          <a href="https://github.com/saadla98/coca-cola-website" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-0EA5E9?style=for-the-badge&logo=github" />
-          </a>  
-        </p>
-        <p><strong>Next.js 14, React 18, TypeScript, Framer Motion</strong></p>
-        <p>Modern Coca-Cola website with 13+ pages, 20+ images, 100+ animations & custom cursor effects</p>
-      </div>
+        <a href="https://coca-cola-website.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live%20Site-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p><strong>Tech:</strong> Next.js 14, React 18, TypeScript, Framer Motion, Tailwind CSS</p>
+      <p>Modern Coca-Cola website with 13+ pages, 20+ images, 100+ animations, custom cursor effects & sustainability section</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🚗 BMW Website</h3>
-      <div align="center">  
+      <br/>
+      <a href="https://github.com/saadla98/bmw-website" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadla98&repo=bmw-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&description_lines_count=3" width="100%" />
+      </a>
+      <br/>
+      <p align="center">
         <a href="https://github.com/saadla98/bmw-website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadla98&repo=bmw-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=C9D1D9" alt="BMW Website" />
+          <img src="https://img.shields.io/badge/Code-View%20Repository-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <br>
-        <p>
-          <a href="https://github.com/saadla98/bmw-website" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-0EA5E9?style=for-the-badge&logo=github" />
-          </a>  
-        </p>
-        <p><strong>Next.js 14, React 18, TypeScript, Tailwind CSS</strong></p>
-        <p>Premium BMW website showcasing 4 models with sleek design & ultimate driving experience</p>
-      </div>
+        <a href="https://bmw-website.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live%20Site-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p><strong>Tech:</strong> Next.js 14, React 18, TypeScript, Tailwind CSS, Framer Motion</p>
+      <p>Premium BMW website showcasing 4 models (M3, X5, i4, iX) with sleek design & ultimate driving experience</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🎨 ArtisanConnect</h3>
-      <div align="center">  
+      <br/>
+      <a href="https://github.com/saadla98/ArtisanConnect" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadla98&repo=ArtisanConnect&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=3" width="100%" />
+      </a>
+      <br/>
+      <p align="center">
         <a href="https://github.com/saadla98/ArtisanConnect" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadla98&repo=ArtisanConnect&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=C9D1D9" alt="ArtisanConnect" />
+          <img src="https://img.shields.io/badge/Code-View%20Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <br>
-        <p>
-          <a href="https://github.com/saadla98/ArtisanConnect" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-0EA5E9?style=for-the-badge&logo=github" />
-          </a>  
-        </p>
-        <p><strong>Vue.js 3, Vite, Tailwind CSS, Web3, MongoDB</strong></p>
-        <p>Web 3.0 platform connecting skilled artisans with customers using blockchain technology</p>
-      </div>
+        <a href="https://artisanconnect.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live%20Site-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p><strong>Tech:</strong> Vue.js 3, Vite, Tailwind CSS, Web3.js, MongoDB, Express.js</p>
+      <p>Web 3.0 platform connecting skilled artisans with customers using blockchain technology, secure bookings & payments</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🤖 PiwPiw Discord Bot</h3>
-      <div align="center">  
+      <br/>
+      <a href="https://github.com/saadla98/piwpiw-website" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadla98&repo=piwpiw-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&description_lines_count=3" width="100%" />
+      </a>
+      <br/>
+      <p align="center">
         <a href="https://github.com/saadla98/piwpiw-website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadla98&repo=piwpiw-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=C9D1D9" alt="PiwPiw Bot" />
+          <img src="https://img.shields.io/badge/Code-View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <br>
-        <p>
-          <a href="https://github.com/saadla98/piwpiw-website" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-0EA5E9?style=for-the-badge&logo=github" />
-          </a>  
-        </p>
-        <p><strong>Python, discord.py, FastAPI, React, TypeScript</strong></p>
-        <p>Multilingual Discord bot with points system, economy, minigames & web dashboard</p>
-      </div>
+        <a href="https://piwpiw.site" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live%20Site-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p><strong>Tech:</strong> Python, discord.py, FastAPI, React, TypeScript, Vite</p>
+      <p>Multilingual Discord bot (EN/FR/AR/Darija) with points system, economy, 8+ minigames & web dashboard</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+## 🛠️ Services I Offer
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
+      <h3>🌐 Web Development</h3>
+      <p align="left">
+        ✨ Modern, responsive websites<br/>
+        🚀 Fast & optimized performance<br/>
+        🎨 Beautiful UI/UX design<br/>
+        📱 Mobile-first approach<br/>
+        🔒 Security best practices
+      </p>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+      <h3>⚡ Full-Stack Solutions</h3>
+      <p align="left">
+        🎯 Complete web applications<br/>
+        🗄️ Database design & management<br/>
+        🔗 RESTful API development<br/>
+        🔐 Authentication & authorization<br/>
+        ☁️ Cloud deployment & hosting
+      </p>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
+      <h3>🎨 UI/UX Design</h3>
+      <p align="left">
+        🎭 Brand identity & logos<br/>
+        💎 Modern interface design<br/>
+        🌈 Color & typography systems<br/>
+        ✏️ Wireframes & prototypes<br/>
+        🎬 Animations & interactions
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
+      <h3>🤖 Bot Development</h3>
+      <p align="left">
+        💬 Discord bot creation<br/>
+        🎮 Gaming & entertainment bots<br/>
+        📊 Analytics & moderation<br/>
+        🌍 Multilingual support<br/>
+        🔧 Custom commands & features
+      </p>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+      <h3>🔧 Consulting</h3>
+      <p align="left">
+        💡 Technical guidance<br/>
+        🏗️ Architecture planning<br/>
+        📈 Performance optimization<br/>
+        🛠️ Code reviews & refactoring<br/>
+        📚 Best practices training
+      </p>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" />
+      <h3>🚀 DevOps</h3>
+      <p align="left">
+        ⚙️ CI/CD pipeline setup<br/>
+        🐳 Docker containerization<br/>
+        ☁️ AWS/Vercel deployment<br/>
+        📊 Monitoring & logging<br/>
+        🔄 Automated workflows
+      </p>
     </td>
   </tr>
 </table>
@@ -191,6 +338,8 @@ const saadLamaizi = {
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -204,26 +353,77 @@ const saadLamaizi = {
 
 ---
 
-## 💼 Services I Offer
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+## 📫 Let's Connect!
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Saad Lamaizi))
-    Web Development
-      Frontend Development
-        React & Next.js
-        TypeScript
-        Tailwind CSS
-      Backend Development
-        Node.js
-        Python
-        FastAPI
-      Full-Stack Apps
-        E-commerce
-        Dashboards
-        Web3 Platforms
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Coding" />
+
+### Ready to bring your ideas to life? Let's talk!
+
+<p>
+  <a href="mailto:saadlahrach98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/saadla98" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/saadla98" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/your-invite" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/saadla98" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="60" />
+      <br/><strong>Fast Response</strong>
+      <br/><sub>Usually within 24h</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94d70b5e.png" width="60" />
+      <br/><strong>Professional Work</strong>
+      <br/><sub>High-quality code</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216121919-60befa4d-948d-4156-9f53-13da1c5610ec.png" width="60" />
+      <br/><strong>Open to Projects</strong>
+      <br/><sub>Let's collaborate!</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 💬 Available for:
+- 🚀 Full-time opportunities
+- 💼 Freelance projects
+- 🤝 Collaborations
+- 📚 Mentoring & consulting
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%" />
+
+**✨ Made with 💙 by Saad Lahrach**
+
+![](https://komarev.com/ghpvc/?username=saadla98&style=for-the-badge&color=0EA5E9)
+
+</div>
     Design Services
       UI/UX Design
         Figma Design
