@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Saad%20Lamaizi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Creative%20Designer&descAlignY=55&descSize=25" width="100%" />
-
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%A8;Video+Editor+%26+Motion+Graphics+%F0%9F%8E%AC;UI%2FUX+Enthusiast+%E2%9C%A8;Web3+Developer+%F0%9F%94%97;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 
