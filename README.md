@@ -283,7 +283,14 @@ const saadLahrach = {
         🔒 Security & SEO optimization<br/>
         🎭 Custom animations (Framer Motion)<br/>
         🎥 Video backgrounds & effects<br/>
-        💻 TypeScript for type safety
+        💻 TypeScript for type safety<br/>
+        🖼️ Next.js Image optimization<br/>
+        🎪 3D carousels & galleries<br/>
+        📐 Responsive grid layouts<br/>
+        🌙 Dark/Light theme systems<br/>
+        🎯 Interactive product showcases<br/>
+        🎨 Custom CSS animations<br/>
+        📊 Real-time data updates
       </p>
     </td>
     <td width="33%" align="center">
@@ -297,7 +304,14 @@ const saadLahrach = {
         ☁️ Cloud deployment (Vercel, Netlify)<br/>
         🛒 E-commerce systems & cart logic<br/>
         📊 Admin dashboards & analytics<br/>
-        🌐 Vue.js & React ecosystems
+        🌐 Vue.js & React ecosystems<br/>
+        💳 Payment integration (Stripe)<br/>
+        📧 Email notifications & webhooks<br/>
+        🔍 Search & filtering systems<br/>
+        📦 Inventory management<br/>
+        👥 User management systems<br/>
+        🔄 Real-time synchronization<br/>
+        🎫 Booking & reservation systems
       </p>
     </td>
     <td width="33%" align="center">
@@ -311,7 +325,14 @@ const saadLahrach = {
         🎬 3D animations & parallax<br/>
         🪄 Glassmorphism & gradients<br/>
         🎨 Custom cursor effects<br/>
-        📐 Figma design systems
+        📐 Figma design systems<br/>
+        🖼️ Icon & illustration design<br/>
+        📱 Mobile app UI design<br/>
+        🎯 User flow optimization<br/>
+        🌟 Micro-interactions design<br/>
+        🎪 Hero sections & landing pages<br/>
+        💫 Scroll-triggered animations<br/>
+        🎭 Brand style guides
       </p>
     </td>
   </tr>
@@ -323,25 +344,39 @@ const saadLahrach = {
         💬 Discord bot development<br/>
         🎮 Gaming & entertainment bots<br/>
         📊 Moderation & analytics<br/>
-        🌍 Multilingual support (EN/FR/AR)<br/>
-        � Economy & points systems<br/>
+        🌍 Multilingual support (EN/FR/AR/Darija)<br/>
+        💰 Economy & points systems<br/>
         🎲 Minigames & interactive features<br/>
         🌐 Web dashboards for bots<br/>
-        🔧 Python & discord.py 2.4+
+        🔧 Python & discord.py 2.4+<br/>
+        🎯 Custom commands & events<br/>
+        📈 Leaderboard systems<br/>
+        🛒 Virtual shop & marketplace<br/>
+        🎁 Reward & achievement systems<br/>
+        📊 Statistics & tracking<br/>
+        🔔 Notification systems<br/>
+        ⚙️ Admin controls & settings
       </p>
     </td>
     <td width="33%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
-      <h3>� Web3 & Blockchain</h3>
+      <h3>🔗 Web3 & Blockchain</h3>
       <p align="left">
         ⛓️ Web3.js integration<br/>
         🪙 Smart contract interactions<br/>
-        � Decentralized platforms<br/>
+        💼 Decentralized platforms<br/>
         🔐 Blockchain authentication<br/>
-        � NFT marketplaces<br/>
+        💎 NFT marketplaces<br/>
         🌐 DApp development<br/>
         🔒 Secure wallet connections<br/>
-        � Crypto payment gateways
+        📊 Crypto payment gateways<br/>
+        🎨 NFT minting platforms<br/>
+        📈 Token tracking systems<br/>
+        🔄 Blockchain data indexing<br/>
+        💱 DEX integration<br/>
+        🎯 Smart contract deployment<br/>
+        🔐 Multi-sig wallet integration<br/>
+        📊 On-chain analytics
       </p>
     </td>
     <td width="33%" align="center">
@@ -353,9 +388,16 @@ const saadLahrach = {
         🎵 Sound design & music (FL Studio)<br/>
         🎨 Graphic design (Photoshop)<br/>
         🖌️ Vector graphics (Illustrator)<br/>
-        � Photo editing & retouching<br/>
+        📸 Photo editing & retouching<br/>
         🎭 Brand visual identity<br/>
-        🎬 Promo videos & animations
+        🎬 Promo videos & animations<br/>
+        🎞️ Color grading & correction<br/>
+        🎙️ Audio mixing & mastering<br/>
+        🎼 Original music composition<br/>
+        🔊 Sound effects creation<br/>
+        📹 Live stream overlays<br/>
+        🎪 YouTube thumbnails & banners<br/>
+        🌟 Social media content creation
       </p>
     </td>
   </tr>
@@ -461,7 +503,7 @@ const saadLahrach = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%" />
 
-**✨ Made with 💙 by Saad Lahrach**
+**✨ Made with 💙 by Saad Lamaizi**
 
 ![](https://komarev.com/ghpvc/?username=saadla98&style=for-the-badge&color=0EA5E9)
 
