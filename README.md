@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Saad%20Lamaizi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Creative%20Designer&descAlignY=55&descSize=25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Saad%20Lahrach&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Creative%20Designer&descAlignY=55&descSize=25" width="100%" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Creative+Designer+%F0%9F%8E%A8;Video+Editor+%26+Motion+Graphics+%F0%9F%8E%AC;UI%2FUX+Enthusiast+%E2%9C%A8;Building+Digital+Experiences+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
@@ -26,7 +26,7 @@
 <div align="left">
 
 ```typescript
-const saadLamaizi = {
+const saadLahrach = {
     role: "Full-Stack Developer & Creative Designer",
     location: "Morocco 🇲🇦",
     languages: ["English", "Français", "العربية"],
@@ -70,27 +70,45 @@ const saadLamaizi = {
 
 ### 💻 Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js_3-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+### 🎨 Styling & Animation
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucide_React-F56565?style=for-the-badge&logo=lucide&logoColor=white" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
+  <img src="https://img.shields.io/badge/Python_3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI_0.115+-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.py_2.4+-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### 🗄️ Databases & APIs
+<p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+</p>
+
+### 🌐 Web3 & Blockchain
+<p>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
 </p>
 
 ### 🎨 Design & Creative Tools
@@ -104,7 +122,7 @@ const saadLamaizi = {
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Development Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -113,6 +131,12 @@ const saadLamaizi = {
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
@@ -253,10 +277,13 @@ const saadLamaizi = {
       <h3>🌐 Web Development</h3>
       <p align="left">
         ✨ Modern, responsive websites<br/>
-        🚀 Fast & optimized performance<br/>
+        🚀 Next.js 14 & React 18 apps<br/>
         🎨 Beautiful UI/UX design<br/>
         📱 Mobile-first approach<br/>
-        🔒 Security best practices
+        🔒 Security & SEO optimization<br/>
+        🎭 Custom animations (Framer Motion)<br/>
+        🎥 Video backgrounds & effects<br/>
+        💻 TypeScript for type safety
       </p>
     </td>
     <td width="33%" align="center">
@@ -264,21 +291,27 @@ const saadLamaizi = {
       <h3>⚡ Full-Stack Solutions</h3>
       <p align="left">
         🎯 Complete web applications<br/>
-        🗄️ Database design & management<br/>
+        🗄️ MongoDB & PostgreSQL databases<br/>
         🔗 RESTful API development<br/>
         🔐 Authentication & authorization<br/>
-        ☁️ Cloud deployment & hosting
+        ☁️ Cloud deployment (Vercel, Netlify)<br/>
+        🛒 E-commerce systems & cart logic<br/>
+        📊 Admin dashboards & analytics<br/>
+        🌐 Vue.js & React ecosystems
       </p>
     </td>
     <td width="33%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
       <h3>🎨 UI/UX Design</h3>
       <p align="left">
-        🎭 Brand identity & logos<br/>
+        🎭 Brand identity & logo design<br/>
         💎 Modern interface design<br/>
-        🌈 Color & typography systems<br/>
+        🌈 Color systems & themes<br/>
         ✏️ Wireframes & prototypes<br/>
-        🎬 Animations & interactions
+        🎬 3D animations & parallax<br/>
+        🪄 Glassmorphism & gradients<br/>
+        🎨 Custom cursor effects<br/>
+        📐 Figma design systems
       </p>
     </td>
   </tr>
@@ -287,33 +320,42 @@ const saadLamaizi = {
       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
       <h3>🤖 Bot Development</h3>
       <p align="left">
-        💬 Discord bot creation<br/>
+        💬 Discord bot development<br/>
         🎮 Gaming & entertainment bots<br/>
-        📊 Analytics & moderation<br/>
-        🌍 Multilingual support<br/>
-        🔧 Custom commands & features
+        📊 Moderation & analytics<br/>
+        🌍 Multilingual support (EN/FR/AR)<br/>
+        � Economy & points systems<br/>
+        🎲 Minigames & interactive features<br/>
+        🌐 Web dashboards for bots<br/>
+        🔧 Python & discord.py 2.4+
       </p>
     </td>
     <td width="33%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
-      <h3>🔧 Consulting</h3>
+      <h3>� Web3 & Blockchain</h3>
       <p align="left">
-        💡 Technical guidance<br/>
-        🏗️ Architecture planning<br/>
-        📈 Performance optimization<br/>
-        🛠️ Code reviews & refactoring<br/>
-        📚 Best practices training
+        ⛓️ Web3.js integration<br/>
+        🪙 Smart contract interactions<br/>
+        � Decentralized platforms<br/>
+        🔐 Blockchain authentication<br/>
+        � NFT marketplaces<br/>
+        🌐 DApp development<br/>
+        🔒 Secure wallet connections<br/>
+        � Crypto payment gateways
       </p>
     </td>
     <td width="33%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" />
-      <h3>🚀 DevOps</h3>
+      <h3>🎬 Creative Services</h3>
       <p align="left">
-        ⚙️ CI/CD pipeline setup<br/>
-        🐳 Docker containerization<br/>
-        ☁️ AWS/Vercel deployment<br/>
-        📊 Monitoring & logging<br/>
-        🔄 Automated workflows
+        🎥 Video editing (Premiere Pro)<br/>
+        ✨ Motion graphics (After Effects)<br/>
+        🎵 Sound design & music (FL Studio)<br/>
+        🎨 Graphic design (Photoshop)<br/>
+        🖌️ Vector graphics (Illustrator)<br/>
+        � Photo editing & retouching<br/>
+        🎭 Brand visual identity<br/>
+        🎬 Promo videos & animations
       </p>
     </td>
   </tr>
@@ -422,83 +464,5 @@ const saadLamaizi = {
 **✨ Made with 💙 by Saad Lahrach**
 
 ![](https://komarev.com/ghpvc/?username=saadla98&style=for-the-badge&color=0EA5E9)
-
-</div>
-    Design Services
-      UI/UX Design
-        Figma Design
-        Prototyping
-        User Research
-      Brand Identity
-        Logo Design
-        Brand Guidelines
-        Social Media
-      Motion Graphics
-        After Effects
-        Video Editing
-        Animations
-    Creative Media
-      Video Production
-        Premiere Pro
-        Color Grading
-        Post-production
-      Sound Design
-        Music Production
-        Audio Mixing
-        FL Studio
-```
-
-</div>
-
----
-
-## 🌟 Professional Highlights
-
-<div align="center">
-
-| 🎯 Metric | 📊 Achievement |
-|:---|:---:|
-| **Years of Experience** | 3+ Years |
-| **Projects Completed** | 15+ Projects |
-| **Technologies Mastered** | 25+ Tools |
-| **Languages Spoken** | English, Français, العربية |
-| **Client Satisfaction** | ⭐⭐⭐⭐⭐ 5.0/5.0 |
-| **Response Time** | < 24 Hours |
-| **Availability** | Open for Freelance |
-
-</div>
-
----
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0EA5E9?style=for-the-badge)](https://saadlamaizi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-lamaizi)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamaiziisaad@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadla98)
-
-<br>
-
-### 💡 "Turning creative visions into digital reality"
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer" width="100%" />
-
-<img src="https://komarev.com/ghpvc/?username=saadla98&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-**⭐ If you like my work, consider giving my repos a star!**
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Available for Freelance Projects | Open to Collaboration
-
-**📧 Let's build something amazing together!**
 
 </div>
