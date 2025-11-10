@@ -470,17 +470,17 @@ const saadLamaizi = {
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="60" />
+      <div style="font-size: 48px;">⚡</div>
       <br/><strong>Fast Response</strong>
       <br/><sub>Usually within 24h</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94d70b5e.png" width="60" />
+      <div style="font-size: 48px;">💼</div>
       <br/><strong>Professional Work</strong>
       <br/><sub>High-quality code</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216121919-60befa4d-948d-4156-9f53-13da1c5610ec.png" width="60" />
+      <div style="font-size: 48px;">🤝</div>
       <br/><strong>Open to Projects</strong>
       <br/><sub>Let's collaborate!</sub>
     </td>
