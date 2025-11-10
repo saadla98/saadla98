@@ -12,13 +12,6 @@
   <img src="https://img.shields.io/github/followers/saadla98?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<br/>
-
-<!-- Simple Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
 </div>
 
 ---
